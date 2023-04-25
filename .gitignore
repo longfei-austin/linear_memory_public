@@ -1,0 +1,77 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Mac system
+*.DS_Store
+
+# Outcome
+*.txt*
+*.bin
+*.dat
+*.dat.info
+*.bin.info
+
+# Matlab
+*.mat
+*.m~
+
+# Figure
+*.png
+
+# Plotting related
+*.py
+
+# Tex intermediates
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdf
+*.spl
+*.gz
+*.ins
+*.xml
+*.bcf
+*.fls
+*.fdb_latexmk
+*.nav
+*.toc
+*.snm
+
+# sshfs duplicates
+._*
+
+# makefile
+makefile
+Makefile
+
+# slurm
+*.slurm
+
